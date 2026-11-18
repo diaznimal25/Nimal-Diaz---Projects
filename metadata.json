@@ -1,0 +1,6 @@
+{
+  "name": "VoltPulse EV",
+  "description": "Real-time EV charging microclimate, Thermal Demand Index (TDI), and corridor load forecast for Chennai & Boulder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
